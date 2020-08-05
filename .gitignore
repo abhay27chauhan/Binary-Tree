@@ -13,3 +13,6 @@ maxofBT$Pair.class
 heightOfBT.class
 heightOfBT$Node.class
 heightOfBT$Pair.class
+traversal.class
+traversal$Node.class
+traversal$Pair.class
