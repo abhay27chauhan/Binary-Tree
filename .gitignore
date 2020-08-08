@@ -25,3 +25,6 @@ iterativePrePostInTraversal.class
 nodeToRootPath$Node.class
 nodeToRootPath$Pair.class
 nodeToRootPath.class
+printKLevelsDown.class
+printKLevelsDown$Node.class
+printKLevelsDown$Pair.class
