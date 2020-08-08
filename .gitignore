@@ -22,3 +22,6 @@ levelOrderLinewise$Pair.class
 iterativePrePostInTraversal$Pair.class
 iterativePrePostInTraversal$Node.class
 iterativePrePostInTraversal.class
+nodeToRootPath$Node.class
+nodeToRootPath$Pair.class
+nodeToRootPath.class
