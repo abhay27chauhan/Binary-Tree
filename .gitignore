@@ -28,3 +28,6 @@ nodeToRootPath.class
 printKLevelsDown.class
 printKLevelsDown$Node.class
 printKLevelsDown$Pair.class
+printKLevelsFar$Node.class
+printKLevelsFar$Pair.class
+printKLevelsFar.class
