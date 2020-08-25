@@ -31,3 +31,6 @@ printKLevelsDown$Pair.class
 printKLevelsFar$Node.class
 printKLevelsFar$Pair.class
 printKLevelsFar.class
+pathToLeafFromRoot$Node.class
+pathToLeafFromRoot$Pair.class
+pathToLeafFromRoot.class
