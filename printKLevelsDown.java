@@ -64,7 +64,6 @@ class printKLevelsDown{
 
         if(k==0){
             System.out.println(node.data);
-            return;
         }
 
         printKLevelsDown(node.left, k-1);
