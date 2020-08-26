@@ -34,3 +34,6 @@ printKLevelsFar.class
 pathToLeafFromRoot$Node.class
 pathToLeafFromRoot$Pair.class
 pathToLeafFromRoot.class
+tranformToLeftClonedTree$Node.class
+tranformToLeftClonedTree$Pair.class
+tranformToLeftClonedTree.class
