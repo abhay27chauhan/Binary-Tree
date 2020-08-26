@@ -40,3 +40,6 @@ tranformToLeftClonedTree.class
 tranformBackFromLeftClonedTree$Node.class
 tranformBackFromLeftClonedTree$Pair.class
 tranformBackFromLeftClonedTree.class
+printSingleChildNodes$Node.class
+printSingleChildNodes$Pair.class
+printSingleChildNodes.class
