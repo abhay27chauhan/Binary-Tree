@@ -37,3 +37,6 @@ pathToLeafFromRoot.class
 tranformToLeftClonedTree$Node.class
 tranformToLeftClonedTree$Pair.class
 tranformToLeftClonedTree.class
+tranformBackFromLeftClonedTree$Node.class
+tranformBackFromLeftClonedTree$Pair.class
+tranformBackFromLeftClonedTree.class
