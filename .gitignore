@@ -56,3 +56,7 @@ diameter2$diaPair.class
 tiltOfBinaryTree$Node.class
 tiltOfBinaryTree$Pair.class
 tiltOfBinaryTree.class
+isBinarySearchTree$Node.class
+isBinarySearchTree$Pair.class
+isBinarySearchTree$BSTPair.class
+isBinarySearchTree.class
