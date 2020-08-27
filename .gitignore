@@ -46,3 +46,6 @@ printSingleChildNodes.class
 removeLeaves$Node.class
 removeLeaves$Pair.class
 removeLeaves.class
+diameter1$Node.class
+diameter1$Pair.class
+diameter1.class
