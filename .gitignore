@@ -49,3 +49,7 @@ removeLeaves.class
 diameter1$Node.class
 diameter1$Pair.class
 diameter1.class
+diameter2$Node.class
+diameter2$Pair.class
+diameter2.class
+diameter2$diaPair.class
