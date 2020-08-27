@@ -43,3 +43,6 @@ tranformBackFromLeftClonedTree.class
 printSingleChildNodes$Node.class
 printSingleChildNodes$Pair.class
 printSingleChildNodes.class
+removeLeaves$Node.class
+removeLeaves$Pair.class
+removeLeaves.class
