@@ -60,3 +60,6 @@ isBinarySearchTree$Node.class
 isBinarySearchTree$Pair.class
 isBinarySearchTree$BSTPair.class
 isBinarySearchTree.class
+balancedBinaryTree$Node.class
+balancedBinaryTree$Pair.class
+balancedBinaryTree.class
