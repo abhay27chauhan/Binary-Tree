@@ -63,3 +63,7 @@ isBinarySearchTree.class
 balancedBinaryTree$Node.class
 balancedBinaryTree$Pair.class
 balancedBinaryTree.class
+balancedBinaryTree2$Node.class
+balancedBinaryTree2$Pair.class
+balancedBinaryTree2.class
+balancedBinaryTree2$BalPair.class
