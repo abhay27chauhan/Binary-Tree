@@ -76,8 +76,8 @@ class isBinarySearchTree{
 
         BSTPair mp = new BSTPair();
         mp.isBST = lp.isBST && rp.isBST && (node.data>=lp.max && node.data <=rp.min);
-        mp.min = Math.min(lp.min, rp.min);
-        mp.max = Math.max(lp.max, rp.max);
+        mp.min = Math.min(node.data, Math.min(lp.min, rp.min));
+        mp.max = Math.max(node.data, Math.max(lp.max, rp.max));
 
         return mp;
     }
