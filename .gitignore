@@ -74,3 +74,6 @@ largestBSTSubtree.class
 leftSideView$Node.class
 leftSideView$Pair.class
 leftSideView.class
+rightSideView$Node.class
+rightSideView$Pair.class
+rightSideView.class
