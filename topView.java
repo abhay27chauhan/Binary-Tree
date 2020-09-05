@@ -89,8 +89,26 @@ class topView{
         HashMap<Integer, Integer> hm = new HashMap<>();
         topView(root, 0, hm);
         width(root, 0);
-        for(int i=leftMin; i<=rightMax; i++){
-            System.out.println(hm.get(i));
+        // for(int i=leftMin; i<=rightMax; i++){
+        //     System.out.println(hm.get(i));
+        // }
+        System.out.print(root.data + " ");
+        int i=-1;
+        int j = 1;
+        while(i>=leftMin && j<=rightMax){
+            System.out.print(hm.get(i) + " " + hm.get(j) + " ");
+            i--;
+            j++;
         }
+        while(i>=leftMin){
+            System.out.print(hm.get(i) + " ");
+            i--;
+        }
+        while(i>=leftMin){
+            System.out.print(hm.get(j) + " ");
+            j++;
+        }
+
+        System.out.println();
     }
 }
