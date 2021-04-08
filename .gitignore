@@ -96,3 +96,5 @@ bottomViewItr.class
 bottomViewItr$Node.class
 bottomViewItr$Pair.class
 constructBinaryTreeFromPreOrderAndInorder.class
+constructBinaryTreeFromPostOrderAndInorder.class
+constructBinaryTreeFromPostOrderAndPreorder.class
